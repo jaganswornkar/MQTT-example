@@ -1,0 +1,17 @@
+{
+  "name": "mqtt-tutorial",
+  "version": "1.0.0",
+  "main": "controller.js",
+  "dependencies": {
+    "mosca": "^2.8.3",
+    "mqtt": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon controller.js"
+  },
+  "author": "jagan",
+  "license": "ISC",
+  "description": ""
+}
